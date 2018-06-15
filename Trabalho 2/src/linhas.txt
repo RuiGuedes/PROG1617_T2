@@ -1,0 +1,4 @@
+201 ; 20 ; Paranhos, Monte dos Burgos, ISEP, Gandra; 10, 20, 45
+207 ; 10 ; Aliados, ISEP, Fluvial, Gandra; 5, 20, 20
+505 ; 30 ; Paranhos, ISEP, Rotunda dos Produtos Estrela, Gandra; 40, 30, 45
+506 ; 15 ; Ribeira, Alfandega, Fluvial, Foz; 10, 25, 55

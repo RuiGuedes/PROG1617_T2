@@ -1,0 +1,5 @@
+1 ; Jose Silva  ; 4 ; 36 ; 2
+3 ; Joaquim Belmiro   ; 8 ; 48 ; 4
+2 ; Rui Guedes  ; 10 ; 45 ; 3
+7 ; Cesar Pinho  ; 12 ; 57 ; 2
+12 ; Pedro Guedes ; 4 ; 20 ; 2
